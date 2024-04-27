@@ -5,12 +5,17 @@
 
 
 2 -- Download the zip file and extract it \
+
 3 -- open the folder in code Editor(VS Code - Preferable) \
 4 --- open the path in  console and run command " npm install" \
-5 --- run command "npm start" \
+5 --- run command "npm start" \!
+![Screenshot 2024-04-27 140556](https://github.com/MNarayan04/Wheather-App-ReactJS/assets/100512104/1647a984-236b-43a3-9dc0-0df4e08a4b7e)
+
+![Screenshot 2024-04-27 140614](https://github.com/MNarayan04/Wheather-App-ReactJS/assets/100512104/f09e024f-72f6-4d1d-af11-101854c8d308)
+
   
 
-your code is ready to run
+your code is ready to run\
 some screenshot of application
 
 
