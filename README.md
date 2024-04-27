@@ -8,8 +8,10 @@
 3 -- open the folder in code Editor(VS Code - Preferable) \
 4 --- open the path in  console and run command " npm install" \
 5 --- run command "npm start" \
+  
 
 your code is ready to run
+some screenshot of application
 
 
 
