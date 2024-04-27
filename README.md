@@ -1,3 +1,15 @@
+#Basic Step to run this code in your localhost
+1 -- Your system should have nodejs envirnoment installed
+2 -- Download the zip file and extract it
+3 -- open the folder in code Editor(VS Code - Preferable)
+4 --- open the path in  console and run command " npm install"
+5 --- run command "npm start"
+
+your code is ready to run
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
